@@ -93,3 +93,9 @@ This is a MetaTrader 5 (MT5) script written in MQL5 that sends Telegram notifica
 - Telegram: https://t.me/@shibainuu90
 
 
+## 🖼️ ตัวอย่างการแจ้งเตือน
+
+![Screenshot of Telegram Alert](image.jpg)
+
+
+
